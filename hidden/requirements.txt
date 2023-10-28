@@ -1,6 +1,6 @@
 timm==0.9.5
 kornia==0.7.0
-scipy==1.10.1
+scipy==1.9.0
 augly==1.0.0
 scikit-image==0.20.0
 pandas==1.5.3
